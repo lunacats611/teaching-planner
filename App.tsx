@@ -9,16 +9,13 @@ import {
   Plus, 
   Settings, 
   Trash2,
-  MoreVertical,
   ChevronRight,
   ChevronDown,
   ArrowUp,
   ArrowDown,
   Info,
   X,
-  Edit2,
   Sparkles,
-  RefreshCw,
   Zap
 } from 'lucide-react';
 import { 
